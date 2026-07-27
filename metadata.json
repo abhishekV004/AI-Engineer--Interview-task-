@@ -1,0 +1,6 @@
+{
+  "name": "Agentic AI RAG Chatbot & Repo Studio",
+  "description": "Production-grade RAG AI Chatbot grounded strictly in the Agentic AI eBook using LangGraph, Vector Database, Embeddings, FastAPI backend & interactive Web UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
